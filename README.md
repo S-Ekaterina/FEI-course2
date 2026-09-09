@@ -27,6 +27,12 @@
 </details>
 
 <details>
+<summary>PIS (Principles of Information Systems)</summary>
+&nbsp;&nbsp;?/100<br>
+&nbsp;&nbsp;
+</details>
+
+<details>
 <summary>PKS (Computer and communication networks)</summary>
 &nbsp;&nbsp;66/100<br>
 &nbsp;&nbsp;
