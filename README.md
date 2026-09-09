@@ -21,13 +21,13 @@
 </details>
 
 <details>
-<summary>PAS (Computer and communication networks)</summary>
-&nbsp;&nbsp;66/100<br>
-&nbsp;&nbsp;
+<summary>PAS (Probability and Statistics)</summary>
+&nbsp;&nbsp;?/100<br>
+&nbsp;&nbsp;Fundamentals of probability theory, random variables, probability distributions, and statistical methods. The course covers sampling, estimation, hypothesis testing, and the application of probabilistic and statistical models to real-world problems.
 </details>
 
 <details>
-<summary>PIS (Principles of Information Systems)</summary>
+<summary>PIS ()</summary>
 &nbsp;&nbsp;?/100<br>
 &nbsp;&nbsp;
 </details>
