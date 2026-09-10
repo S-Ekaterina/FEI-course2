@@ -40,6 +40,6 @@
 
 <details>
 <summary>:green_circle::sunglasses: PSI (Computer and communication networks)</summary>
-&nbsp;&nbsp;66/100<br>
-&nbsp;&nbsp;
+&nbsp;&nbsp;76/100<br>
+&nbsp;&nbsp;This course introduces the principles and practices of software engineering, covering the software development life cycle, requirements analysis, system design, implementation, and testing. It also focuses on UML modeling, software development methods, user interface design, and software maintenance.
 </details>
