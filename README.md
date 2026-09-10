@@ -9,37 +9,37 @@
 
 
 <details>
-<summary>AZA (Analysis and complexity of algorithms)</summary>
+<summary>:yellow_circle::sunglasses: AZA (Analysis and complexity of algorithms)</summary>
 &nbsp;&nbsp;83/100<br>
 &nbsp;&nbsp;The course focuses on the design, analysis, and computational complexity of algorithms. It covers major algorithmic approaches, including divide-and-conquer, dynamic programming, greedy algorithms, backtracking, and branch-and-bound, as well as NP-completeness and approximation algorithms.
 </details>
 
 <details>
-<summary>DBS (Database systems)</summary>
+<summary>:red_circle::sunglasses: DBS (Database systems)</summary>
 &nbsp;&nbsp;66/100<br>
 &nbsp;&nbsp;The course focuses on the principles of database systems, data modelling, and relational database design. It covers SQL, normalization, indexing and query optimization, transactions and concurrency control, O/R mapping, and NoSQL database systems.
 </details>
 
 <details>
-<summary>PAS (Probability and Statistics)</summary>
+<summary>:yellow_circle::sunglasses: PAS (Probability and Statistics)</summary>
 &nbsp;&nbsp;?/100<br>
 &nbsp;&nbsp;Fundamentals of probability theory, random variables, probability distributions, and statistical methods. The course covers sampling, estimation, hypothesis testing, and the application of probabilistic and statistical models to real-world problems.
 </details>
 
 <details>
-<summary>PIS ()</summary>
+<summary>:green_circle::sunglasses: PIS ()</summary>
 &nbsp;&nbsp;?/100<br>
 &nbsp;&nbsp;
 </details>
 
 <details>
-<summary>PKS (Computer and communication networks)</summary>
+<summary>:red_circle::open_mouth: PKS (Computer and communication networks)</summary>
 &nbsp;&nbsp;66/100<br>
 &nbsp;&nbsp;
 </details>
 
 <details>
-<summary>PSI (Computer and communication networks)</summary>
+<summary>:green_circle::sunglasses: PSI (Computer and communication networks)</summary>
 &nbsp;&nbsp;66/100<br>
 &nbsp;&nbsp;
 </details>
