@@ -34,12 +34,12 @@
 
 <details>
 <summary>:red_circle::open_mouth: PKS (Computer and communication networks)</summary>
-&nbsp;&nbsp;66/100<br>
-&nbsp;&nbsp;
+&nbsp;&nbsp;95/100<br>
+&nbsp;&nbsp;This course covers the fundamentals of computer networks and communication protocols, including the OSI and TCP/IP models, IP addressing, routing, LAN/WAN architectures, and Ethernet networks. It also provides practical experience with network communication and network analysis tools.
 </details>
 
 <details>
-<summary>:green_circle::sunglasses: PSI (Computer and communication networks)</summary>
+<summary>:green_circle::sunglasses: PSI (Principles of software engineering)</summary>
 &nbsp;&nbsp;76/100<br>
 &nbsp;&nbsp;This course introduces the principles and practices of software engineering, covering the software development life cycle, requirements analysis, system design, implementation, and testing. It also focuses on UML modeling, software development methods, user interface design, and software maintenance.
 </details>
