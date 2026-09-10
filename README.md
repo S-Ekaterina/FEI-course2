@@ -22,14 +22,14 @@
 
 <details>
 <summary>:yellow_circle::sunglasses: PAS (Probability and Statistics)</summary>
-&nbsp;&nbsp;?/100<br>
+&nbsp;&nbsp;72/100<br>
 &nbsp;&nbsp;Fundamentals of probability theory, random variables, probability distributions, and statistical methods. The course covers sampling, estimation, hypothesis testing, and the application of probabilistic and statistical models to real-world problems.
 </details>
 
 <details>
-<summary>:green_circle::sunglasses: PIS ()</summary>
-&nbsp;&nbsp;?/100<br>
-&nbsp;&nbsp;
+<summary>:green_circle::sunglasses: PIS (Principles of Information Systems)</summary>
+&nbsp;&nbsp;71/100<br>
+&nbsp;&nbsp;This course covers the fundamentals of information systems, business process modeling, distributed architectures, and service-oriented systems. It also introduces modern technologies such as microservices, cloud computing, and quantum computing.
 </details>
 
 <details>
