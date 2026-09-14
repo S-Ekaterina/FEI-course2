@@ -1,7 +1,7 @@
 # Principles of software engineering
 
 > [!TIP]
-> 
+> Honestly, I feel like someone would’ve bought our project out based on the business plan alone, even before implementation haha
 
 &nbsp;&nbsp;In the ActiveWork project, our team designed a smart software solution aimed at combating the negative effects of a sedentary lifestyle among office workers by promoting regular physical activity, screen breaks, and personalized ergonomic guidance. We established key business objectives and metrics, such as securing pilot partnerships, reaching 5,000 active users, and reducing health-related absenteeism by 15%. To lay a solid foundation, we analyzed the market, conducted a SWOT analysis, identified potential risks, and defined the system's core entities by creating a comprehensive domain model that connects employees, HR managers, health experts, break notifications, and gamification elements.
 
