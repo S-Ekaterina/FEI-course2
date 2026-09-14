@@ -1,7 +1,7 @@
 # Computer and communication networks
 
 > [!TIP]
->
+>That should've been a red flag when they offered a paid course instead of an exam lol
 
 &nbsp;&nbsp;Computer and Communication Networks was easily one of the most challenging courses I have taken. The workload was intense, requiring us to complete weekly tests and assignments while maintaining at least a 50% passing threshold to stay on track. This consistent pressure forced me to build strong study habits.
 
