@@ -43,3 +43,10 @@
 &nbsp;&nbsp;76/100<br>
 &nbsp;&nbsp;This course introduces the principles and practices of software engineering, covering the software development life cycle, requirements analysis, system design, implementation, and testing. It also focuses on UML modeling, software development methods, user interface design, and software maintenance.
 </details>
+
+
+<details>
+<summary>:red_circle::sunglasses: UMINT (Artificial intelligence)</summary>
+&nbsp;&nbsp;76/100<br>
+&nbsp;&nbsp;This course covers the core concepts of artificial intelligence, including neural and deep networks, genetic algorithms, fuzzy logic, and expert systems. It focuses on combining theoretical principles with hands-on software implementation to solve real-world engineering and analytical problems.
+</details>
